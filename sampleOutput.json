@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Nurses union to reject pay deal as strike vote looms",
+      "description": "The Royal College of Nursing has been holding a consultative vote on their 3.6% pay rise.",
+      "url": "https://www.bbc.co.uk/news/articles/c4ge4905eq7o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8e9a/live/987e86f0-6b50-11f0-89ea-4d6f9851f623.jpg",
+      "publishedAt": "2025-07-28T05:22:23.2576005Z",
+      "content": "The union will announce the results of its indicative vote later this week but the BBC understands it will show an \"overwhelming\" rejection of the deal.\r\nThe turnout is expected to be well over the 5… [+1562 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "How Japan's far right was supercharged by Trump and tourists",
+      "description": "\"Foreigners are scary. I’m afraid they may go on a rampage\": How tourists played a role in turning the land of humdrum politics into a fierce political battleground",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k29233jeo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f73d/live/b2c8b730-6964-11f0-89ea-4d6f9851f623.png",
+      "publishedAt": "2025-07-28T01:22:20.7579389Z",
+      "content": "\"The number of foreign immigrants who don't obey the rules is increasing,\" argues the young voter Uta Kato. \r\n\"The burden on citizens including taxes is bigger so life is getting more difficult.\"\r\nSa… [+1234 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "The Caribbean islands that give you a passport if you buy a home",
+      "description": "Five of the region's island nations offer such citizenship by investment for as little as $200,000.",
+      "url": "https://www.bbc.co.uk/news/articles/cly88xg5d9vo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/612f/live/299a1cd0-567a-11f0-95fc-edf89039c20a.jpg",
+      "publishedAt": "2025-07-28T00:37:19.4596669Z",
+      "content": "For their part, the five Caribbean nations have reacted angrily to claims that they are not doing enough to scrutinise applicants.\r\nDominica's Prime Minister Roosevelt Skerrit has described his count… [+2153 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Newspaper headlines: 'You were roarsome!' and 'Queens of Europe'",
+      "description": "The Lionesses' thrilling victory over Spain in the Euros final dominates Monday's papers.",
+      "url": "https://www.bbc.co.uk/news/articles/cm219zxprvdo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d709/live/adfb6930-6b3c-11f0-af20-030418be2ca5.jpg",
+      "publishedAt": "2025-07-28T00:37:17.2102278Z",
+      "content": "Image caption, The i Paper praises England's \"incredible show of defiance\" as it spotlights a photo of Chloe Kelly kissing the Euro trophy. Kelly scored the winning goal in the penalty shootout to de… [+187 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Imported dogs 'posing risk to UK', RSPCA warns",
+      "description": "The charity calls for all dog rescue organisations to be licensed amid concerns over imported pets.",
+      "url": "https://www.bbc.co.uk/news/articles/cpwq40vjw8lo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d0f2/live/fddd4180-67db-11f0-bd11-e1b32ef27f62.jpg",
+      "publishedAt": "2025-07-28T00:07:21.6170018Z",
+      "content": "Scientists have been monitoring Brucella canis, a rare disease that can be passed to humans.\r\nTransmitted through a dog's reproductive fluids, it can present in humans as a short-term fever with flu-… [+610 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Google admits it failed to warn 10 million of Turkey earthquake",
+      "description": "The tech giant said only 469 serious warnings were sent out ahead of the 7.8 magnitude quake.",
+      "url": "https://www.bbc.co.uk/news/articles/c77v2kx304go",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a96/live/8e997b00-67da-11f0-bd11-e1b32ef27f62.jpg",
+      "publishedAt": "2025-07-27T23:52:20.492452Z",
+      "content": "Google researchers have written in the Science journal details of what went wrong, citing \"limitations to the detection algorithms\".\r\nFor the first earthquake, the system estimated the shaking at bet… [+1725 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "'We faced the Southport killer shoulder to shoulder'",
+      "description": "A year on, the officers who first faced the Southport killer discuss the impact of his attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cjd2d9kpl4do",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b143/live/14c19b50-692e-11f0-89f9-2557e37258a0.jpg",
+      "publishedAt": "2025-07-27T23:37:22.412913Z",
+      "content": "All three officers were recognised at the Police Federation of England and Wales 2025 bravery awards for their actions on the day.\r\nThey said the attack had changed them.\r\n\"It affects you in ways tha… [+824 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "EU and US agree trade deal, with 15% tariffs for European exports to America",
+      "description": "US President Donald Trump and EU chief Ursula von der Leyen confirm the deal after \"tough negotiations\" in Scotland.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xylk3d07o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbc4/live/625dbf60-6b1d-11f0-8dbd-f3d32ebd3327.jpg",
+      "publishedAt": "2025-07-27T21:07:20.3974712Z",
+      "content": "Trump has threatened tariffs against major US trade partners in a bid to reorder the global economy and trim the American trade deficit.\r\nAs well as the EU, he has also struck tariff agreements with … [+1633 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "King and Princess Charlotte lead praise for 'awesome' Lionesses after Euro win",
+      "description": "The prime minister says the team are \"history makers\" as tributes to the victorious England side roll in.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y03dyyvx2o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/718e/live/d30ad9e0-6b1e-11f0-b5e4-cdd8392e455e.jpg",
+      "publishedAt": "2025-07-27T21:07:18.1636543Z",
+      "content": "In a statement released after the final whistle, the King said: \"For more years than I care to remember, England fans have sung that famous chant 'football's coming home'.\r\n\"As you return home with t… [+1482 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Several reported killed in German train derailment",
+      "description": "German media report deaths and injuries in crash near Stuttgart, south-west Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9844egpx8o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08f0/live/eb388dd0-6b16-11f0-8dbd-f3d32ebd3327.jpg",
+      "publishedAt": "2025-07-27T19:37:21.5386933Z",
+      "content": "Several people have been killed and at least three injured after a passenger train derailed in south-west Germany, German media cite police as saying.\r\nOperator Deutsche Bahn said the crash occurred … [+401 chars]"
+    }
+  ]
+}
